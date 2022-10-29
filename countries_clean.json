@@ -1,5 +1,4 @@
-"world": {
-    "continent": [
+"children": [
         "africa": [
             {
               countryCode: 'AO',
@@ -1973,4 +1972,3 @@
             }
           ]
     ]
-}
